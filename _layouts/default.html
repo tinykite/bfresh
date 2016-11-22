@@ -3,18 +3,16 @@
 
   {% include head.html %}
 
-  <body>
-
+   <body id="{{page.link-state}}"> 
+  <div class="wrapper">
+  <div class="da-all">
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
         {{ content }}
-      </div>
-    </div>
-
     {% include footer.html %}
-
+    </div>
+</div>
   </body>
+  <script src="https://get.gridsetapp.com/29698/overlay/"></script>
+
 
 </html>

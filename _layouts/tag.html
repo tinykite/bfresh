@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="da2-da5">
+{% assign tag = page.title %}
+{% assign tag_posts = site.tags[tag] %}
+<p>All {{ page.title }}</p>
+{% for post in tag_posts %}
+  {% include post.html post=post %}
+{% endfor %}
+</div>
