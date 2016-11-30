@@ -2,7 +2,7 @@
 layout: post
 title:  "Coffee Scrub"
 date:   2014-08-27
-tags: body recipe
+tags: body recipes
 image: http://placehold.it/800x200
 ---
 I love coffee so much, it was only a matter of time before I started slathering it all over my body. Ha. No but really. This is a thing. I’ve pinned quite a few at home masks, treatments, etc. Why not start with one who’s ingredients I fully support: coffee, sugar, coconut oil and cinnamon. The caffeine in the coffee tightens, cane sugar exfoliates, coconut oil moisturizes and cinnamon clears away bacteria. Click here to get the recipe and read up on the benefits of each ingredient.

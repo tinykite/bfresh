@@ -2,7 +2,7 @@
 layout: post
 title:  "Grilled Fruit Dessert"
 date:   2015-07-23
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 
 ---

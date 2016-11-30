@@ -2,7 +2,7 @@
 layout: post
 title:  "Procrastinating"
 date:   2014-08-20
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 I know I’ve been pretty absent this past month. I promise I’ll be back eventually. I have a brand new kitchen I’ve been getting some use out of. And the light that comes streaming in is pretty great. Someday I’ll share some photos once I’ve gotten around to unpacking the stacks of boxes we’ve managed to shove into corners and hanging something on the walls. For now I’ll share with you my first official meal in the place {I’m not counting the ones that have come off the grill – I want to get a little more sophisticated with my grilling skills first}.

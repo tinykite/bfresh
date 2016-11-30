@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hot Toddy"
+date:   2012-10-10
+tags: recipes beverages
+---
+I’ve been feeling a little under the weather for the past week or so and have been opting for the self-medicated route of a good ‘ole whiskey drink. I had heard of a hot toddy {recipe here} but have never elected to try one. So glad I did! Even when I’m feeling back to normal I think this drink will stick with me through the cold winter months.
+
+![hot toddy ingredients photo](/assets/toddy-ingredients.jpg)
+![honey photo](/assets/honey.jpg)
+![lemons photo](/assets/lemons.jpg)
+![tea photo](/assets/tea.jpg)

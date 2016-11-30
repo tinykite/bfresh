@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div class="da2-da5">
+{% assign category = page.title %}
+{% assign category_posts = page.category[category] %}
+<p>All {{ page.title }}</p>
+{% for category in category_posts %}
+  {% include post.html post=post %}
+{% endfor %}
+</div>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Prosciutto and Pears"
 date:   2014-12-02
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 I think pears might be one of the most underrated fall fruits. Apples get quite a bit of face time with the multitude of dessert and drink recipes out there and pumpkins are the poster child for Thanksgiving {which, by the way, I didn’t even know they were a fruit until about 5 minutes ago}.

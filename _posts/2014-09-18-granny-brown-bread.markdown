@@ -2,7 +2,7 @@
 layout: post
 title:  "Granny's Brown Bread"
 date:   2014-09-18
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 The Irish have arrived! In celebration we made dinner for them at our house earlier this week. I made Guinness Beef Stew and Granny’s Brown Bread, which may have been a little crazy since the best stew I’ve ever had was made by Tina Cummins {Irish relative} and I had never made brown bread before.

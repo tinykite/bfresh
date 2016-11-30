@@ -2,7 +2,7 @@
 layout: post
 title:  "Blueberry Avocado Smoothie"
 date:   2014-07-08
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 I know myself pretty well. And I know that one of hardest things for me when trying to eat healthy, is avoiding the sweets. My sweet tooth is insanely out of control, and is usually pretty difficult to reign in. So again, being prepared was key here. I stocked up on quite a few fruits to snack on raw, as well as to toss into the magic bullet to make quick smoothies.

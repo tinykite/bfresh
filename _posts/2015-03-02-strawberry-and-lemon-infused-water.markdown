@@ -2,7 +2,7 @@
 layout: post
 title:  "Infused Water {Strawberry & Lemon}"
 date:   2015-03-02
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 Winter seems to suck all the moisture out of my body, leaving my skin feeling rough and dry. I try slathering on lotion as often as I can, but I usually forget that extra hydration is just as {if not more}, important. I’m not terrible about drinking water, but I definitely don’t go above and beyond the bare minimum. Between the dry winter air and my frequency in the hot yoga studio, I should probably be drinking a lot more than 64 ounces a day. And sadly, I don’t think I’m even getting close to that.

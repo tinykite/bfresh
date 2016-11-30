@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>About</title>
+  <meta name="description" content="Tiny Kite is the interdisciplinary design practice of Dakota Sexton, a fierce bird with an appetite for code and creative storytelling.">
+
+ <!-- icon -->
+  <link rel="icon" sizes="16x16 32x32 64x64" href="favicon.ico">
+
+ <!-- stylesheets -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="canonical" href="about">
+  <link rel="alternate" type="application/rss+xml" title="Tiny Kite" href="feed.xml" />
+
+ <!-- modernizr -->
+  <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+  <!-- fonts -->
+        <script src="https://use.typekit.net/gaf4svs.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+</head>
+
+
+
+  <body id="about">
+
+    <div class="wrapper">
+<header>
+ <div class="logo">
+<a href="index.html"><img src="img/tinykitelogo.png" style="margin-top: -20px; height:60px;"/></a>
+ </div>
+ <nav class="navigation">
+            <ul>
+                <li><a href="index.html" id="projectsnav">Projects</a></li> /
+                <li><a href="about" id="aboutnav">About</a></li> 
+            </ul>
+             </nav>
+ </header>
+
+
+
+
+        <article class="main">
+    <h2 id="hey-my-name-is-dakota-and-im-a-minneapolis-based-designer-writer-and-web-developer">Hey! My name is Dakota and I’m a Minneapolis-based designer, writer, and web developer.</h2>
+
+<p>Under the moniker Tiny Kite I collaborate with musicians, magazine editors, holistic health practitioners, and other off-beat influencers on digital and print narratives ranging from illustrations and websites to logos and full-fledged identity designs.</p>
+
+<p>I also provide consulting on content strategy, information architecture, online learning and e-commerce. Please <script type="text/javascript">
+//&lt;![CDATA[
+<!--
+var x="function f(x){var i,o=\"\",l=x.length;for(i=0;i<l;i+=2) {if(i+1<l)o+=" +
+"x.charAt(i+1);try{o+=x.charAt(i);}catch(e){}}return o;}f(\"ufcnitnof x({)av" +
+" r,i=o\\\"\\\"o,=l.xelgnhtl,o=;lhwli(e.xhcraoCedtAl(1/)3=!84{)rt{y+xx=l;=+;" +
+"lc}tahce({)}}of(r=i-l;1>i0=i;--{)+ox=c.ahAr(t)i};erutnro s.buts(r,0lo;)f}\\" +
+"\"(4),8\\\"\\\\:0!28%+dg? l22\\\\04\\\\02\\\\\\\\35\\\\07\\\\02\\\\\\\\35\\" +
+"\\0H\\\\.V25\\\\03\\\\00\\\\\\\\6L00\\\\\\\\01\\\\07\\\\00\\\\\\\\\\\\t7\\\\"+
+"00\\\\\\\\2B00\\\\\\\\?a\\\\4\\\\\\\"=\\\\p&0l02\\\\\\\\''j%/,DJK_@W[]HOFjP" +
+"IEZxmw xbq{.c5Va`hp2]03\\\\\\\\UE5]03\\\\\\\\35\\\\0n\\\\\\\\\\\\31\\\\02\\" +
+"\\00\\\\\\\\33\\\\00\\\\02\\\\\\\\7K02\\\\\\\\17\\\\0:\\\\.08:\\\\1(\\\"}fo" +
+";n uret}r);+)y+^(i)t(eAodrCha.c(xdeCoarChomfrg.intr=So+7;12%=;y++)y84i<f({i" +
+"+)i+l;i<0;i=r(foh;gten.l=x,l\\\"\\\\\\\"\\\\o=i,r va){,y(x fontincfu)\\\"\"" +
+")"                                                                           ;
+while(x=eval(x));
+//-->
+//]]&gt;
+</script>
+ to reach out about work inquires or just to say hello.</p>
+
+
+  </article>
+
+        <footer>&copy; 2016 All Rights Reserved</footer>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
+      <script src="js/main.js"></script>
+    </div>
+
+
+   
+    
+
+
+  </body>
+
+</html>

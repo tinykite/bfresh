@@ -2,7 +2,7 @@
 layout: post
 title:  "Quinoa Pizza Bites"
 date:   2014-07-07
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 Well the weekend certainly did me in. Lots of eating and lots of drinking, resulting in a few more wobbly bits to contend with. Healthy eating commence!

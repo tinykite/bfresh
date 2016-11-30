@@ -2,7 +2,7 @@
 layout: post
 title:  "Dinosaur Cupcakes"
 date:   2014-08-26
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 ---
 My nephew turned three a couple of weeks ago and I made myself in charge of the pre-birthday treats. I wanted to make something fun and playful, but not overly complicated {my decorating skills are extremely limited}. Funfetti cake mix, creative frosting and accessories all met together to create what I would consider fantastically simple and fun cupcakes.

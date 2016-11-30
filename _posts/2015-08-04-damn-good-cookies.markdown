@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Damn good cookies"
-date:   2015-08-04
-tags: recipe
+title: "Damn good cookies"
+date: 2015-08-04
+tags: dessert
+category: recipes
 image: https://justbfresh.files.wordpress.com/2015/08/img_5505.jpg
 
 

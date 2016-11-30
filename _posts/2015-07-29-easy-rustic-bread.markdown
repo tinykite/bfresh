@@ -2,7 +2,7 @@
 layout: post
 title:  "Easy Rustic Bread"
 date:   2015-07-29
-tags: recipe
+tags: recipes
 image: http://placehold.it/800x200
 
 
